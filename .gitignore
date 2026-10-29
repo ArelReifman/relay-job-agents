@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+data/master-data.json
+output/
+history/
+runs/
+.DS_Store

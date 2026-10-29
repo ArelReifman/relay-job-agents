@@ -1,0 +1,510 @@
+{
+  "personal": {
+    "name": "John Doe",
+    "name_he": "John Doe",
+    "phone": "",
+    "phone_raw": "",
+    "email": "john.doe@example.com",
+    "linkedin": "linkedin.com/in/johndoe",
+    "github": "github.com/johndoe"
+  },
+  "education": {
+    "degree": "B.Sc. in Computer Science | 2021-2024",
+    "institution": "Example University",
+    "coursework": "Data Structures, Algorithms, Operating Systems, OOP, Database Systems"
+  },
+  "languages": [
+    "English (Fluent)"
+  ],
+  "expertise": [
+    "Full Stack Development",
+    "Backend Development",
+    "REST API Development",
+    "Database Design"
+  ],
+  "skills_pool": [
+    {
+      "name": "Python",
+      "level": "built"
+    },
+    {
+      "name": "TypeScript",
+      "level": "used"
+    },
+    {
+      "name": "React",
+      "level": "built"
+    },
+    {
+      "name": "Next.js",
+      "level": "built"
+    },
+    {
+      "name": "SQL",
+      "level": "used"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "used"
+    },
+    {
+      "name": "REST APIs",
+      "level": "built"
+    },
+    {
+      "name": "Claude API",
+      "level": "built"
+    },
+    {
+      "name": "API Integrations",
+      "level": "built"
+    },
+    {
+      "name": "Backend Workflows",
+      "level": "built"
+    },
+    {
+      "name": "Data Processing",
+      "level": "used"
+    },
+    {
+      "name": "Supabase",
+      "level": "used"
+    },
+    {
+      "name": "Hono",
+      "level": "used"
+    },
+    {
+      "name": "Node.js",
+      "level": "used"
+    },
+    {
+      "name": "Git",
+      "level": "used"
+    },
+    {
+      "name": "GitHub",
+      "level": "used"
+    },
+    {
+      "name": "Pandas Fundamentals",
+      "level": "familiar"
+    },
+    {
+      "name": "Streamlit",
+      "level": "built"
+    },
+    {
+      "name": "Plotly",
+      "level": "built"
+    },
+    {
+      "name": "Gemini API",
+      "level": "built"
+    },
+    {
+      "name": "Prompt Engineering",
+      "level": "used"
+    },
+    {
+      "name": "Kotlin",
+      "level": "built"
+    },
+    {
+      "name": "MVVM",
+      "level": "built"
+    },
+    {
+      "name": "Room",
+      "level": "built"
+    },
+    {
+      "name": "Retrofit",
+      "level": "used"
+    },
+    {
+      "name": "WorkManager",
+      "level": "used"
+    },
+    {
+      "name": "Firebase",
+      "level": "used"
+    },
+    {
+      "name": "Dagger Hilt",
+      "level": "used"
+    }
+  ],
+  "role_targets": {
+    "Backend": {
+      "primary_project": "taskboard",
+      "secondary_project": "weatherapp",
+      "main_keywords": [
+        "REST APIs",
+        "PostgreSQL",
+        "Supabase",
+        "Backend Workflows",
+        "SQL"
+      ],
+      "do_not_claim": [
+        "distributed systems",
+        "production infrastructure",
+        "cloud architecture"
+      ],
+      "expertise": [
+        "Backend Development",
+        "REST API Development",
+        "Database Design",
+        "API Integrations"
+      ]
+    },
+    "Frontend": {
+      "primary_project": "taskboard",
+      "secondary_project": "weatherapp",
+      "main_keywords": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "REST APIs"
+      ],
+      "do_not_claim": [
+        "pixel-perfect design",
+        "advanced UX research",
+        "design system ownership"
+      ],
+      "expertise": [
+        "Frontend Development",
+        "React & Next.js",
+        "UI Development",
+        "API Integration"
+      ]
+    },
+    "AI/LLM": {
+      "primary_project": "taskboard",
+      "secondary_project": "salesdash",
+      "main_keywords": [
+        "Claude API",
+        "REST APIs",
+        "PostgreSQL",
+        "Backend Workflows"
+      ],
+      "do_not_claim": [
+        "multi-agent architecture",
+        "LLM orchestration",
+        "autonomous agents",
+        "RAG"
+      ],
+      "expertise": [
+        "LLM API Integration",
+        "Backend Development",
+        "Claude API Integration",
+        "REST API Development"
+      ]
+    },
+    "Full Stack": {
+      "primary_project": "taskboard",
+      "secondary_project": "weatherapp",
+      "main_keywords": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "REST APIs",
+        "PostgreSQL",
+        "SQL",
+        "Supabase",
+        "Backend Workflows"
+      ],
+      "do_not_claim": [
+        "distributed systems",
+        "production infrastructure at scale"
+      ],
+      "expertise": [
+        "Full Stack Development",
+        "Backend Development",
+        "REST API Development",
+        "LLM API Integration"
+      ]
+    },
+    "Data/ETL": {
+      "primary_project": "salesdash",
+      "secondary_project": "taskboard",
+      "main_keywords": [
+        "Python",
+        "Data Processing",
+        "Streamlit",
+        "Plotly"
+      ],
+      "do_not_claim": [
+        "ETL pipelines",
+        "big data",
+        "production data warehouse",
+        "real billing API integration"
+      ],
+      "expertise": [
+        "Data Analysis",
+        "Python Development",
+        "Data Visualization",
+        "AI Cost Optimization"
+      ]
+    },
+    "Mobile": {
+      "primary_project": "weatherapp",
+      "secondary_project": "taskboard",
+      "main_keywords": [
+        "Kotlin",
+        "Room",
+        "Retrofit",
+        "WorkManager",
+        "Firebase",
+        "MVVM"
+      ],
+      "do_not_claim": [
+        "Play Store production release",
+        "Jetpack Compose",
+        "multi-module architecture"
+      ],
+      "expertise": [
+        "Android Development",
+        "MVVM Architecture",
+        "Local Data Persistence",
+        "API Integrations"
+      ]
+    }
+  },
+  "default_project_pair": {
+    "primary_project": "taskboard",
+    "secondary_project": "weatherapp"
+  },
+  "global_do_not_claim": [
+    "AWS production infrastructure",
+    "Kubernetes",
+    "cloud deployment at scale",
+    "multi-agent architecture",
+    "LLM orchestration",
+    "autonomous AI agents",
+    "production-grade systems",
+    "large-scale systems",
+    "enterprise-grade platform"
+  ],
+  "interview_defense_required": true,
+  "projects": [
+    {
+      "id": "taskboard",
+      "name": "TaskBoard",
+      "subtitle": "Full Stack Task Management App",
+      "link": "https://github.com/johndoe/taskboard",
+      "raw_facts": [
+        "Built REST API endpoints in Node.js and TypeScript for creating, updating, and listing tasks.",
+        "Designed a PostgreSQL schema for users, projects, and tasks with indexed queries for common filters.",
+        "Developed a React interface that lets users drag tasks between columns and see updates immediately.",
+        "Added user sign up and login with hashed passwords and session tokens.",
+        "Wrote unit tests for the API layer and ran them in CI on every push."
+      ],
+      "tech_stack": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "REST APIs"
+      ],
+      "data_entities": [],
+      "can_explain": [
+        "Architecture and main data flow"
+      ],
+      "cannot_claim": [
+        "enterprise scale"
+      ],
+      "relevant_for": [
+        "all"
+      ]
+    },
+    {
+      "id": "weatherapp",
+      "name": "WeatherApp",
+      "subtitle": "Android Weather App",
+      "link": "https://github.com/johndoe/weatherapp",
+      "raw_facts": [
+        "Built an Android app in Kotlin that shows a 5 day forecast for saved cities.",
+        "Used Retrofit to call a public weather API and map responses into app models.",
+        "Cached forecasts locally with Room so the app works offline.",
+        "Structured the app with MVVM to keep UI code separate from data logic."
+      ],
+      "tech_stack": [
+        "Kotlin",
+        "Retrofit",
+        "Room",
+        "MVVM"
+      ],
+      "data_entities": [],
+      "can_explain": [
+        "Architecture and main data flow"
+      ],
+      "cannot_claim": [
+        "enterprise scale"
+      ],
+      "relevant_for": [
+        "all"
+      ]
+    },
+    {
+      "id": "salesdash",
+      "name": "SalesDash",
+      "subtitle": "Data Analytics Dashboard",
+      "link": "https://github.com/johndoe/salesdash",
+      "raw_facts": [
+        "Built a Streamlit dashboard in Python that loads sales data from CSV files and a SQL database.",
+        "Cleaned and aggregated data with Pandas to show monthly totals and top products.",
+        "Added interactive filters by date range and region.",
+        "Wrote a small data generator to create realistic sample data for testing."
+      ],
+      "tech_stack": [
+        "Python",
+        "Pandas",
+        "Streamlit",
+        "SQL"
+      ],
+      "data_entities": [],
+      "can_explain": [
+        "Architecture and main data flow"
+      ],
+      "cannot_claim": [
+        "enterprise scale"
+      ],
+      "relevant_for": [
+        "all"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "job1",
+      "name": "Junior Developer, Example Co.",
+      "period": "2024-Present",
+      "raw_facts": [
+        "Fixed bugs and shipped small features in a TypeScript web app.",
+        "Reviewed pull requests and wrote tests for new code.",
+        "Worked with the support team to reproduce and resolve customer issues."
+      ],
+      "cannot_claim": [],
+      "relevant_for": [
+        "all"
+      ]
+    }
+  ],
+  "base_text": {
+    "note": "Approved base text per role type. Writers adapt from this base per job. Any bullet or summary that differs is flagged for owner approval.",
+    "fixed_summary_phrase": "hands-on project experience",
+    "studiq_fixed_bullet": "Built REST API endpoints in Node.js and TypeScript for creating, updating, and listing tasks.",
+    "required_everywhere": [
+      "TypeScript"
+    ],
+    "by_role": {
+      "Full Stack": {
+        "summary": "Full Stack developer with hands-on project experience. Built TaskBoard, a task management app used by a small team. Experienced with TypeScript, React, Node.js, and PostgreSQL.",
+        "projects": {
+          "taskboard": [
+            "Built REST API endpoints in Node.js and TypeScript for creating, updating, and listing tasks.",
+            "Designed a PostgreSQL schema for users, projects, and tasks with indexed queries for common filters.",
+            "Developed a React interface that lets users drag tasks between columns and see updates immediately.",
+            "Added user sign up and login with hashed passwords and session tokens."
+          ],
+          "weatherapp": [
+            "Built an Android app in Kotlin that shows a 5 day forecast for saved cities.",
+            "Used Retrofit to call a public weather API and map responses into app models.",
+            "Cached forecasts locally with Room so the app works offline.",
+            "Structured the app with MVVM to keep UI code separate from data logic."
+          ]
+        }
+      },
+      "Backend": {
+        "summary": "Backend developer with hands-on project experience. Built TaskBoard, a task management app used by a small team. Experienced with TypeScript, React, Node.js, and PostgreSQL.",
+        "projects": {
+          "taskboard": [
+            "Built REST API endpoints in Node.js and TypeScript for creating, updating, and listing tasks.",
+            "Designed a PostgreSQL schema for users, projects, and tasks with indexed queries for common filters.",
+            "Developed a React interface that lets users drag tasks between columns and see updates immediately.",
+            "Added user sign up and login with hashed passwords and session tokens."
+          ],
+          "weatherapp": [
+            "Built an Android app in Kotlin that shows a 5 day forecast for saved cities.",
+            "Used Retrofit to call a public weather API and map responses into app models.",
+            "Cached forecasts locally with Room so the app works offline.",
+            "Structured the app with MVVM to keep UI code separate from data logic."
+          ]
+        }
+      },
+      "Frontend": {
+        "summary": "Frontend developer with hands-on project experience. Built TaskBoard, a task management app used by a small team. Experienced with TypeScript, React, Node.js, and PostgreSQL.",
+        "projects": {
+          "taskboard": [
+            "Built REST API endpoints in Node.js and TypeScript for creating, updating, and listing tasks.",
+            "Designed a PostgreSQL schema for users, projects, and tasks with indexed queries for common filters.",
+            "Developed a React interface that lets users drag tasks between columns and see updates immediately.",
+            "Added user sign up and login with hashed passwords and session tokens."
+          ],
+          "weatherapp": [
+            "Built an Android app in Kotlin that shows a 5 day forecast for saved cities.",
+            "Used Retrofit to call a public weather API and map responses into app models.",
+            "Cached forecasts locally with Room so the app works offline.",
+            "Structured the app with MVVM to keep UI code separate from data logic."
+          ]
+        }
+      },
+      "AI/LLM": {
+        "summary": "AI developer with hands-on project experience. Built TaskBoard, a task management app used by a small team. Experienced with TypeScript, React, Node.js, and PostgreSQL.",
+        "projects": {
+          "taskboard": [
+            "Built REST API endpoints in Node.js and TypeScript for creating, updating, and listing tasks.",
+            "Designed a PostgreSQL schema for users, projects, and tasks with indexed queries for common filters.",
+            "Developed a React interface that lets users drag tasks between columns and see updates immediately.",
+            "Added user sign up and login with hashed passwords and session tokens."
+          ],
+          "salesdash": [
+            "Built a Streamlit dashboard in Python that loads sales data from CSV files and a SQL database.",
+            "Cleaned and aggregated data with Pandas to show monthly totals and top products.",
+            "Added interactive filters by date range and region.",
+            "Wrote a small data generator to create realistic sample data for testing."
+          ]
+        }
+      },
+      "Data/ETL": {
+        "summary": "Python developer with hands-on project experience. Built TaskBoard, a task management app used by a small team. Experienced with TypeScript, React, Node.js, and PostgreSQL.",
+        "projects": {
+          "salesdash": [
+            "Built a Streamlit dashboard in Python that loads sales data from CSV files and a SQL database.",
+            "Cleaned and aggregated data with Pandas to show monthly totals and top products.",
+            "Added interactive filters by date range and region.",
+            "Wrote a small data generator to create realistic sample data for testing."
+          ],
+          "taskboard": [
+            "Built REST API endpoints in Node.js and TypeScript for creating, updating, and listing tasks.",
+            "Designed a PostgreSQL schema for users, projects, and tasks with indexed queries for common filters.",
+            "Developed a React interface that lets users drag tasks between columns and see updates immediately.",
+            "Added user sign up and login with hashed passwords and session tokens."
+          ]
+        }
+      },
+      "Mobile": {
+        "summary": "Android developer with hands-on project experience. Built TaskBoard, a task management app used by a small team. Experienced with TypeScript, React, Node.js, and PostgreSQL.",
+        "projects": {
+          "weatherapp": [
+            "Built an Android app in Kotlin that shows a 5 day forecast for saved cities.",
+            "Used Retrofit to call a public weather API and map responses into app models.",
+            "Cached forecasts locally with Room so the app works offline.",
+            "Structured the app with MVVM to keep UI code separate from data logic."
+          ],
+          "taskboard": [
+            "Built REST API endpoints in Node.js and TypeScript for creating, updating, and listing tasks.",
+            "Designed a PostgreSQL schema for users, projects, and tasks with indexed queries for common filters.",
+            "Developed a React interface that lets users drag tasks between columns and see updates immediately.",
+            "Added user sign up and login with hashed passwords and session tokens."
+          ]
+        }
+      }
+    },
+    "role_title_rules": [
+      "If the job title is Software Developer or Software Engineer, open the summary with \"Software developer\". This title swap alone does not need re-approval."
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "relay-job-agents",
+  "version": "1.0.0",
+  "description": "Tailors a one-page CV to a job posting from structured master data, with deterministic writing checks and PDF export",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "puppeteer": "^23.11.1"
+  }
+}

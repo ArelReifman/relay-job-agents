@@ -1,0 +1,57 @@
+{
+  "job_description": "Example: Junior Full Stack Developer posting (sample).",
+  "requirements": {
+    "role_type": "Full Stack",
+    "job_title": "Junior Full Stack Developer",
+    "must_have": [
+      "TypeScript",
+      "React",
+      "PostgreSQL"
+    ],
+    "nice_to_have": [
+      "Node.js"
+    ],
+    "keywords": [
+      "REST APIs"
+    ],
+    "risk_gap": [],
+    "company": "Example Corp",
+    "application_email": ""
+  },
+  "bullets": [
+    {
+      "id": "taskboard",
+      "bullets": [
+        "Built REST API endpoints in Node.js and TypeScript for creating, updating, and listing tasks.",
+        "Designed a PostgreSQL schema for users, projects, and tasks with indexed queries for common filters.",
+        "Developed a React interface that lets users drag tasks between columns and see updates immediately.",
+        "Added user sign up and login with hashed passwords and session tokens."
+      ]
+    },
+    {
+      "id": "weatherapp",
+      "bullets": [
+        "Built an Android app in Kotlin that shows a 5 day forecast for saved cities.",
+        "Used Retrofit to call a public weather API and map responses into app models.",
+        "Cached forecasts locally with Room so the app works offline.",
+        "Structured the app with MVVM to keep UI code separate from data logic."
+      ]
+    }
+  ],
+  "summary": "Full Stack developer with hands-on project experience. Built TaskBoard, a task management app used by a small team. Experienced with TypeScript, React, Node.js, and PostgreSQL.",
+  "skills": {
+    "col1": [
+      "TypeScript",
+      "React",
+      "PostgreSQL"
+    ],
+    "col2": [
+      "Kotlin",
+      "REST APIs"
+    ]
+  },
+  "email_paragraph": {
+    "he": "",
+    "en": ""
+  }
+}
